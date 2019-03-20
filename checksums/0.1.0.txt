@@ -1,0 +1,3 @@
+6af19363ab3062790e9cee18db471989823aa66431eb613741e459293c7be6bc  releases/0.1.0/live-tunnel-client-darwin-amd64.tar.gz
+214262d90ccbee0822d04ef4334f6cf4071734913d740ebc962c126cf19b1f3d  releases/0.1.0/live-tunnel-client-linux-amd64.tar.gz
+f274f25d854e2dfe05c6cecd5df4d5e135e7176b8eab01adcca9fd54f4971fb8  releases/0.1.0/live-tunnel-client-windows-amd64.zip
