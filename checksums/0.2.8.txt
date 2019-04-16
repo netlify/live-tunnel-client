@@ -1,3 +1,3 @@
-74ef4ba63e4e94e6e4ff5107934a61e300830b69f366c21754dde4a93da7d9f9  releases/0.2.8/live-tunnel-client-darwin-amd64.tar.gz
-39102c2f9c9ff8289b2400e1c1e821d4abdf443fd00b15a3ca9bcbe85a2e66c4  releases/0.2.8/live-tunnel-client-linux-amd64.tar.gz
-2d3960b58bde16f67f02d47d94370b20f4a4fae50998f06c33d05c2d19e9faf8  releases/0.2.8/live-tunnel-client-windows-amd64.zip
+4a8bceefc36291f6925095399189f319e94bb325bb72cf3c62b2589b47b4233b  releases/0.2.8/live-tunnel-client-darwin-amd64.tar.gz
+0af4f87e9d70251cd4b1489cd99aa539a70aede856a6c0a6093400674ed95561  releases/0.2.8/live-tunnel-client-linux-amd64.tar.gz
+5909e45ea56a4e7cabd0e428314bb3be8d7cf3995dcd9ad3c7ffc7e5a076463c  releases/0.2.8/live-tunnel-client-windows-amd64.zip
