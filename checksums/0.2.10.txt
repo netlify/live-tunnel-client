@@ -1,0 +1,10 @@
+6200ed550efa58f7b18fec64e841c501d1342d80df8dc3f107a2a42f8b86ec34  releases/0.2.10/live-tunnel-client-linux-386.tar.gz
+3569728f7c3d6c64656bb7514773f1014deef86c25945be004f49d706ed83ffb  releases/0.2.10/live-tunnel-client-linux-amd64.tar.gz
+1fa297d8f75f5d9f2cb57f98730e2d7881f01bbc9d3319c01e777730a5c92a34  releases/0.2.10/live-tunnel-client-linux-arm.tar.gz
+c85b067709b859447defe39ab26bc2077a0538b0ec26de124365ff722eec5bbc  releases/0.2.10/live-tunnel-client-linux-arm64.tar.gz
+0ca0032c7ccfcca9f01a7cc4b3871c8928ad65d38e7f29825b10d60844f26099  releases/0.2.10/live-tunnel-client-darwin-amd64.tar.gz
+081587c6305d184fef2c70a878adedd11ef1105c596d3d8582991973779e5789  releases/0.2.10/live-tunnel-client-darwin-arm64.tar.gz
+1d10955b79ecfbb19fdba2b009ca9d0c136c54e8259256d26c616f9227920cd9  releases/0.2.10/live-tunnel-client-windows-386.tar.gz
+2d13afdc2a7b97b401ad0402c951604278e2ca01ffea8d35d5e3fe20dfd851da  releases/0.2.10/live-tunnel-client-windows-amd64.tar.gz
+2fe4eea518715a79913abfa50f9280e2db727c6bfd7283ed16afde869b42cefd  releases/0.2.10/live-tunnel-client-windows-arm.tar.gz
+7dc11eebc6246e6c49d23763a1f424cee8b885b567c7154b5a39946ebd07db87  releases/0.2.10/live-tunnel-client-windows-arm64.tar.gz
